@@ -8,7 +8,7 @@ The main objective is to understand the basics of React Router by creating a sim
 - React Router: For managing multiple pages and navigation within the app.
 - JSON Placeholder: Mock data for users and posts.
 - Dynamic Routing: Separate pages for user lists and individual user posts.
-- React Router Hooks: Using navigate for programmatic navigation and useLoader for optimized data loading.
+- React Router Hooks: Using usenavigate for programmatic navigation and useLoader for optimized data loading and useRouteError for error handling.
 ## Technologies
 React
 React Router
