@@ -1,8 +1,15 @@
-# React + Vite
+## React Router Basics
+This project demonstrates the fundamentals of React Router, utilizing JSON Placeholder for user and post data to create simple routes, dynamic pages, and implement navigation with hooks.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Purpose
+The main objective is to understand the basics of React Router by creating a simple multi-page application with dynamic routes for viewing users and their posts. This project also demonstrates using React Router hooks for more interactive navigation and data loading.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- React Router: For managing multiple pages and navigation within the app.
+- JSON Placeholder: Mock data for users and posts.
+- Dynamic Routing: Separate pages for user lists and individual user posts.
+- React Router Hooks: Using navigate for programmatic navigation and useLoader for optimized data loading.
+## Technologies
+React
+React Router
+JSON Placeholder API
