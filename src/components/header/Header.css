@@ -3,3 +3,9 @@
     justify-content: space-between;
     padding:10px;
 }
+
+nav a.active{text-decoration: underline;
+    color: orange;
+
+
+}
